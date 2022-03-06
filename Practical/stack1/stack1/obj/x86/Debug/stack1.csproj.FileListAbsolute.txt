@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\practicle\stack1\stack1\bin\Debug\stack1.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\stack1\stack1\bin\Debug\stack1.pdb
+C:\Users\shubham\Desktop\mona\anudip project\practicle\stack1\stack1\obj\x86\Debug\stack1.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\stack1\stack1\obj\x86\Debug\stack1.pdb

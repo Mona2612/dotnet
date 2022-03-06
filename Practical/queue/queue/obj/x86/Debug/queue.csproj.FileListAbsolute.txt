@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\practicle\queue\queue\bin\Debug\queue.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\queue\queue\bin\Debug\queue.pdb
+C:\Users\shubham\Desktop\mona\anudip project\practicle\queue\queue\obj\x86\Debug\queue.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\queue\queue\obj\x86\Debug\queue.pdb

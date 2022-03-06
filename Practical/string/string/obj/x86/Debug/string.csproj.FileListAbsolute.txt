@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\practicle\string\string\bin\Debug\@string.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\string\string\bin\Debug\@string.pdb
+C:\Users\shubham\Desktop\mona\anudip project\practicle\string\string\obj\x86\Debug\@string.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\string\string\obj\x86\Debug\@string.pdb

@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\practicle\dimarray\dimarray\bin\Debug\dimarray.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\dimarray\dimarray\bin\Debug\dimarray.pdb
+C:\Users\shubham\Desktop\mona\anudip project\practicle\dimarray\dimarray\obj\x86\Debug\dimarray.exe
+C:\Users\shubham\Desktop\mona\anudip project\practicle\dimarray\dimarray\obj\x86\Debug\dimarray.pdb
