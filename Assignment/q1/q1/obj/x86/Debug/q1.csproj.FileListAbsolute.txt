@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\assignment\q1\q1\bin\Debug\q1.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\q1\q1\bin\Debug\q1.pdb
+C:\Users\shubham\Desktop\mona\anudip project\assignment\q1\q1\obj\x86\Debug\q1.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\q1\q1\obj\x86\Debug\q1.pdb

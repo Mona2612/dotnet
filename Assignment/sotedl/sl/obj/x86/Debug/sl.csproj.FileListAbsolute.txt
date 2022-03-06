@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sl\sl\bin\Debug\sl.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sl\sl\bin\Debug\sl.pdb
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sl\sl\obj\x86\Debug\sl.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sl\sl\obj\x86\Debug\sl.pdb
