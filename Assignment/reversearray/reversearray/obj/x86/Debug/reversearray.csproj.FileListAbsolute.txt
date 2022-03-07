@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\assignment\reversearray\reversearray\bin\Debug\reversearray.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\reversearray\reversearray\bin\Debug\reversearray.pdb
+C:\Users\shubham\Desktop\mona\anudip project\assignment\reversearray\reversearray\obj\x86\Debug\reversearray.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\reversearray\reversearray\obj\x86\Debug\reversearray.pdb

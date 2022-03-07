@@ -1,0 +1,4 @@
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sotedlist1\sotedlist1\bin\Debug\sotedlist1.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sotedlist1\sotedlist1\bin\Debug\sotedlist1.pdb
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sotedlist1\sotedlist1\obj\x86\Debug\sotedlist1.exe
+C:\Users\shubham\Desktop\mona\anudip project\assignment\sotedlist1\sotedlist1\obj\x86\Debug\sotedlist1.pdb
