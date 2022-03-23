@@ -1,0 +1,13 @@
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.exe
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.deps.json
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.runtimeconfig.json
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.runtimeconfig.dev.json
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.dll
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\bin\Debug\netcoreapp3.1\linkedtosrtingarray.pdb
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.AssemblyInfoInputs.cache
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.AssemblyInfo.cs
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.csproj.CoreCompileInputs.cache
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.dll
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.pdb
+C:\Users\shubham\Desktop\mona\anudip project\linkedtosrtingarray\linkedtosrtingarray\obj\Debug\netcoreapp3.1\linkedtosrtingarray.genruntimeconfig.cache
